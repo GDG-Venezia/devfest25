@@ -1,0 +1,19 @@
+---
+enable: true
+title: "Partners"
+partner:
+  - name: "Università Ca' Foscari Venezia"
+    image: "images/partners/unive.webp"
+    link: "https://www.unive.it/"
+  - name: "Android Developers Italia"
+    image: "images/partners/adi.png"
+    link: "https://androiddevs.it/"
+  # - name: "Coding Gym"
+  #   image: "images/partners/coding-gym.png"
+  #   link: "https://coding-gym.org/"
+  # - name: "Marca User Group"
+  #   image: "images/partners/mug.png"
+  #   link: "https://marcausergroup.it/"
+  # - name: "CoderDojo Zero Branco"
+  #   image: "images/partners/coderjo.png"
+  #   link: "https://coderdojozerobranco.wordpress.com/"
