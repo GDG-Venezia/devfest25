@@ -7,7 +7,7 @@ title = 'DevFest Venezia 25'
   # Main Menu
 [[menu.Main]]
 name = "Submit a talk!"
-url = "https://sessionize.com/devfest-venezia-2025"
+url = "#cfp"
 weight = 1
 #[[menu.Main]]
 #name = "Agenda"
