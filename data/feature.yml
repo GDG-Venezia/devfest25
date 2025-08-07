@@ -16,11 +16,11 @@ features:
     description: >
                 Saturday, October 11, 2025, from 9:30 AM to 6:30 PM
     icon: "ti-image"
-  - name: "300+ people"
+  - name: "500+ people"
     description: >
-                More than 300 people expected
+                More than 500 people expected
     icon: "ti-user"
-  - name: "2+ Tracks"
+  - name: "3+ Tracks"
     description: >
                 Multiple tracks with sessions in English and Italian.
     icon: "ti-blackboard"
