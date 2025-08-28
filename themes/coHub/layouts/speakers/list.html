@@ -1,5 +1,5 @@
 {{define "main"}}
-<section class="page-title">
+<!-- <section class="page-title">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -8,31 +8,40 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
-<!-- <section class="blog">
+<section class="page-title">
   <div class="container">
     <div class="row">
-      {{ range .Pages }}
-      <div class="col-lg-4">
-        <a href="{{ .Permalink }}">
-          <article class="blog-post">
-            <img src="{{ .Params.photo | absURL }}" alt="blog-images" />
-            <div class="blog-content">
-              <h3>{{ .Params.name }}</h3>
-              <p>{{.Params.jobTitle}}</p>
-              <h3><b> {{.Params.presentation.title }} </b></h3>
+      <div class="col-12">
+        <h1>{{.Title}}</h1>
+        <section class="blog">
+          <div class="container">
+            <div class="row">
+              {{ range .Pages }}
+              <div class="col-lg-4">
+                <a href="{{ .Permalink }}">
+                  <article class="blog-post">
+                    <img src="{{ .Params.photo | absURL }}" alt="blog-images" />
+                    <div class="blog-content">
+                      <h3>{{ .Params.name }}</h3>
+                      <p>{{.Params.jobTitle}}</p>
+                      <h3><b> {{.Params.presentation.title }} </b></h3>
+                    </div>
+                    {{ if eq .Params.lang "eng" }}
+                      <div class="blog-tip">{{.Params.lang}}</div>
+                    {{ else }}
+                     <div class="blog-tip" style="background-color: #ec5c30;">{{.Params.lang}}</div>
+                    {{ end }}
+                  </article>
+                </a>
+              </div>
+              {{end}}
             </div>
-            {{ if eq .Params.lang "eng" }}
-              <div class="blog-tip">{{.Params.lang}}</div>
-            {{ else }}
-             <div class="blog-tip" style="background-color: #ec5c30;">{{.Params.lang}}</div>
-            {{ end }}
-          </article>
-        </a>
+          </div>
+        </section>
       </div>
-      {{end}}
     </div>
   </div>
-</section> -->
+</section>
 {{end}}

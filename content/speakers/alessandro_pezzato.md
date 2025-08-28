@@ -1,5 +1,5 @@
 ---
-title: "Alessandro Pezzato - DevFest Venezia 2023"
+title: "Alessandro Pezzato - DevFest Venezia 2025"
 name: "Alessandro Pezzato"
 photo: "/images/speakers/alessandro_pezzato.webp"
 bio: Coding for passion since I was a child, now working as C++ trainer and developer.

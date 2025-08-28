@@ -1,17 +1,17 @@
 ---
-title: "Giorgio Basile - DevFest Venezia 2024"
+title: "Giorgio Basile - DevFest Venezia 2025"
 name: "Giorgio Basile"
 photo: "/images/speakers/giorgio-basile.webp"
-bio: "Sono un giovane del 2000 e attualmente sto concludendo il mio percorso di studi informatica presso l'Università Ca' Foscari di Venezia, con sede a Mestre, oltre a essere uno sviluppatore web full time.
-Sono una persona determinata e sicura di sé, e amo lavorare in team con persone anche più esperte di me, assorbendo le loro conoscenze \"come una spugna\". Grazie all'università, ho sviluppato significative capacità di problem solving, adattabilità alle scadenze e allo stress che ne deriva.<br>Oltre agli studi, amo giocare ai giochi di ruolo, andare in skate e giocare a Magic the Gathering."
-jobTitle: Web developer - Angular SpringBoot
-linkedin: "https://www.linkedin.com/in/giorgio-basile-382430170/"
-website: "https://www.instagram.com/bacarotech23/"
+bio: "I am a young man born in 2000 and I am currently finishing my studies in computer science at the Ca' Foscari University of Venice, located in Mestre, in addition to being a full-time web developer.
+In addition to studying, I love playing role-playing games, skateboarding and playing Magic the Gathering."
+jobTitle: Angular Frontend Developer
+linkedin: "https://www.linkedin.com/in/giorgiobasile00/"
+website: "https://www.linkedin.com/in/giorgiobasile00/"
 featured: false
 lang: it
 presentation:
-    title: "Clean code: perché il tuo codice puzza?"
-    abstract: "Si tratta di un talk dove si andranno a toccare non solo i principi del leetcode, ma anche strumenti, tecniche e siti utili per garantire i sani principi di scrittura del codice nei vari progetti. In fine ci sarà anche una parte di quiz."
+    title: "Design pattern: costuisci la tua codebase di successo"
+    abstract: "I design pattern sono soluzioni collaudate a problemi ricorrenti nello sviluppo software, ma il loro vero valore emerge quando vengono applicati strategicamente per creare una codebase robusta, mantenibile e scalabile.<br><br>In questo talk, esploreremo i 10 design pattern che tutti gli sviluppatori dovrebbero sapere, analizzando anche il codice che permette loro di esistere.<br><br>Che tu sia uno sviluppatore junior o senior, questo talk ti fornirà strumenti concreti per elevare la qualità del tuo codice e progettare sistemi più efficienti e facili da mantenere."
 ---
 
 
