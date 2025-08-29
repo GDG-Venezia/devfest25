@@ -11,7 +11,7 @@ jobTitle: Lead Android Engineer @ Aircall
 twitter: "https://twitter.com/JulienSalvi"
 linkedin: "https://www.linkedin.com/in/salvijulien/"
 website: ""
-featured: false
+featured: true
 lang: eng
 presentation:
     title: "You, me and Firebase Studio 🔥"

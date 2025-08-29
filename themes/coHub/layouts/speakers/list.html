@@ -28,7 +28,7 @@
                       <p>{{.Params.jobTitle}}</p>
                       <h3><b> {{.Params.presentation.title }} </b></h3>
                     </div>
-                    {{ if eq .Params.lang "eng" }}
+                    {{ if or (eq .Params.lang "eng") (eq .Params.lang "workshop - eng") }}
                       <div class="blog-tip">{{.Params.lang}}</div>
                     {{ else }}
                      <div class="blog-tip" style="background-color: #ec5c30;">{{.Params.lang}}</div>

@@ -10,7 +10,7 @@ twitter: "https://twitter.com/henrylim96"
 linkedin: "https://linkedin.com/in/henrylim96/"
 website: "https://dev.to/henrylim96"
 featured: false
-lang: en
+lang: eng
 presentation:
     title: "Chrome DevTools LIVE LIVE LIVE"
     abstract: "This isn't your average DevTools talk. This is a full-throttle, 45 minute live demo that takes you on a journey through the evolution of debugging. 

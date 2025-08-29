@@ -8,7 +8,7 @@ twitter: ""
 linkedin: "https://www.linkedin.com/in/mattia-cintura/"
 website: ""
 featured: false
-lang: en
+lang: eng
 presentation:
     title: "LLM in your pocket: An introduction to Foundation Models on iOS"
     abstract: "At WWDC25 Apple announced its decision to open the on-device LLM that already powers system features across all platforms to third party developers. Now we can take advantage of a fast, private and on-device LLM using a set of system API provided by the new Foundation Models framework.

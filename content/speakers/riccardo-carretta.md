@@ -10,7 +10,7 @@ twitter: ""
 linkedin: "https://www.linkedin.com/in/riccardo-carretta"
 website: ""
 featured: false
-lang: en
+lang: eng
 presentation:
     title: "Web Development Simplified: Next.js and the Modern Stack"
     abstract: "The world of web development is constantly evolving, with new frameworks, libraries, and techniques emerging at a rapid pace: it's so easy to feel overwhelmed!

@@ -10,7 +10,7 @@ Skilled in managing cross-functional and multicultural teams, aligning initiativ
 jobTitle: Soft Skills Trainer & IT Project Manager
 linkedin: "https://www.linkedin.com/in/giovannagalleno/"
 twitter: "https://x.com/GallenoGiovanna"
-featured: false
+featured: true
 lang: eng
 presentation:
     title: "Reframing How to Measure Your Success!"

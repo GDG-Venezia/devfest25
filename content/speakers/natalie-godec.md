@@ -11,7 +11,7 @@ jobTitle: Cloud Architect | Google Dev Expert in Cloud | GCP Champion Innovator
 twitter: "https://twitter.com/ouvessvit"
 linkedin: "https://www.linkedin.com/in/nataliia-godec/"
 website: "https://ouvessvit.medium.com/"
-featured: false
+featured: true
 lang: eng
 presentation:
     title: "But can you really run your app on 2 clouds at the same time?"

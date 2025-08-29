@@ -10,11 +10,10 @@ As a speaker, Vadym has shared his insights at local meetups, DevFests, and majo
 
 Passionate about developer education, Vadym is dedicated to mentoring others and supporting growth across the tech community."
 jobTitle: "Software Development Engineer"
-twitter: ""
 linkedin: "https://www.linkedin.com/in/vpinchuk/"
 website: "https://vpinch.uk"
-featured: false
-lang: en
+featured: true
+lang: eng
 presentation:
     title: "Accessibility is the new Law: A Guide to Accessible Multi-platform Development with Flutter"
     abstract: "The European Accessibility Act (EAA) has established new, mandatory standards for digital products in the EU market. Compliance with these requirements is no longer just a competitive advantage—it's a baseline condition for doing business and developing high-quality software.

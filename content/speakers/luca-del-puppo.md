@@ -8,7 +8,7 @@ jobTitle: Nearform, Senior Software Engineer
 twitter: "https://twitter.com/puppo92"
 linkedin: "https://www.linkedin.com/in/lucadelpuppo/"
 website: "https://www.delpuppo.net/"
-featured: true
+featured: false
 lang: it
 presentation:
     title: "Vibe Coding - Let's follow the flow!"

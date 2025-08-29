@@ -9,7 +9,7 @@ jobTitle: Technical Director - Head of AI Architecture and Engineering Group @ C
 twitter: "https://www.twitter.com/pattyneta"
 linkedin: "https://www.linkedin.com/in/patricia-ocallaghan/"
 website: ""
-featured: false
+featured: true
 lang: workshop - eng
 presentation:
     title: "Intro to Google's Agent Development Kit (ADK)"

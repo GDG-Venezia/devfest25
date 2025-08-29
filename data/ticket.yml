@@ -7,6 +7,6 @@ itemPrices:
   - description: >
                 Ticket valid for entry.
     price: DevFest Venezia 25
-    buttonTarget: "/"
+    buttonTarget: "https://gdg.community.dev/events/details/google-gdg-venezia-presents-devfest-venezia-2025/"
 
 ---
