@@ -8,7 +8,7 @@ twitter: "https://twitter.com/whatsupcoders"
 linkedin: "https://www.linkedin.com/in/kamalshree/"
 website: ""
 featured: false
-lang: session - en
+lang: eng
 presentation:
     title: "AI Meets UI: Integrating LLMs and ML Models in Flutter Apps"
     abstract: "AI is changing the way people use apps, and as developers, it's up to us to connect smart technology with seamless user experiences. In this session, we'll look at how you can bring the power of Large Language Models (LLMs) and machine learning into your Flutter apps in practical, approachable ways.
