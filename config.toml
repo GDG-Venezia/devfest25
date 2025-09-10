@@ -9,9 +9,9 @@ title = 'DevFest Venezia 25'
 #name = "Submit a talk!"
 #url = "#cfp"
 #weight = 1
-#name = "Speakers"
-#url= "speakers/"
-#weight = 1
+name = "Speakers"
+url= "speakers/"
+weight = 1
 #[[menu.Main]]
 #name = "Agenda"
 #url= "agenda/"
