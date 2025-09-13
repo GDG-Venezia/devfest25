@@ -12,10 +12,10 @@ title = 'DevFest Venezia 25'
 name = "Speakers"
 url= "speakers/"
 weight = 1
-#[[menu.Main]]
-#name = "Agenda"
-#url= "agenda/"
-#weight = 2
+[[menu.Main]]
+name = "Agenda"
+url= "agenda/"
+weight = 2
 [[menu.Main]]
 name = "Tickets"
 url= "#ticket"
