@@ -1,8 +1,9 @@
 ---
-title: "Aton - DevFest Venezia 2024"
-name: "Aton"
+title: "Aton Spa Società Benefit - DevFest Venezia 2025"
+name: "Aton Spa Società Benefit"
 photo: "/images/sponsors/aton.jpg"
-desc: "In Aton S.p.A., Società Benefit e B Corp, ci impegniamo a sviluppare soluzioni e servizi all'avanguardia per la trasformazione digitale sostenibile nei settori delle vendite omnicanale, dei processi di tracciabilità e della gestione della supply chain aziendale.
-Ci rivolgiamo ai mercati dei beni di largo consumo, delle catene retail, del fashion, dell’energy e dell’industria avvalendoci di tecnologie “best of breed” (come Cloud, mobile, Edge, IoT, AI e AR)."
+desc: "Aton S.p.A. Società Benefit è una tech company certificata B Corp e Great Place to Work, che accompagna le aziende nella trasformazione digitale sostenibile delle vendite omnichannel, dei processi di tracciabilità e supply chain. Ci guidano valori, passioni, entusiasmo, spontaneità, curiosità, voglia di sperimentare con l'obiettivo comune di generare valore."
 website: "https://aton.com/"
+youtube: "r3fHKLXbI7M"
+careers: "Per candidarti a uno stage o ad altre posizioni, invia il tuo CV e una breve presentazione a <a href='mailto:federica.digiorgio@aton.com'>federica.digiorgio@aton.com</a>. In alternativa, consulta le nostre posizioni aperte e candidati direttamente tramite il sito: <a href='https://aton.com/lavora-con-noi'>aton.com/lavora-con-noi</a>"
 ---

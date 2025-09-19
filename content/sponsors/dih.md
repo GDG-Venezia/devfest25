@@ -1,9 +1,9 @@
 ---
-title: "DIH Vicenza - DevFest Venezia 2024"
-name: "DIH Vicenza"
+title: "DIH Vicenza - Confartigianato Imprese - DevFest Venezia 2025"
+name: "DIH Vicenza - Confartigianato Imprese"
 photo: "/images/sponsors/dih.png"
-desc: "Il DIH Vicenza (Digital Innovation Hub) supporta la trasformazione digitale delle PMI, offrendo consulenza, formazione e assistenza nell’adozione di tecnologie innovative. Parte di una rete nazionale, il DIH aiuta le imprese a migliorare la loro competitività, facilitando l'accesso a finanziamenti e opportunità legate all'innovazione. È un punto di riferimento per il territorio vicentino nel favorire la digitalizzazione e lo sviluppo delle aziende locali."
+desc: "Il Digital Innovation Hub di Confartigianato Imprese Vicenza sostiene la trasformazione digitale di piccole e micro imprese, offrendo consulenza, formazione e progetti di innovazione. È partner dell'EDIH NEURAL e parte attiva del polo di innovazione G4I, dove tecnologie e competenze si integrano per favorire crescita, competitività e sviluppo sostenibile del territorio."
 website: "https://www.dihvicenza.it/"
-#youtube: h8GCQe1T-Ss 
-# careers: "E' sufficiente scrivere una mail a <a href='mailto:info@dihvicenza.it'>info@dihvicenza.it</a> inviando CV e una lettera motivazionale"
+youtube: "0moqj2xIgnw"
+careers: "Inviare una mail a <a href='mailto:info@dihvicenza.it'>info@dihvicenza.it</a>"
 ---

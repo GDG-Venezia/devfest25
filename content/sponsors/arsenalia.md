@@ -1,8 +1,8 @@
 ---
-title: "Arsenalia - DevFest Venezia 2024"
+title: "Arsenalia - DevFest Venezia 2025"
 name: "Arsenalia"
 photo: "/images/sponsors/arsenalia.png"
-desc: "Arsenalia è un gruppo societario in continua evoluzione che aggrega realtà d’eccellenza favorendone lo sviluppo e l’unicità. Le aziende del gruppo gestiscono progetti innovativi ad alto contenuto tecnologico negli ambiti People, Customer ed Enterprise, nella consulenza strategica riferita a questi contesti e nella comunicazione creativa multicanale,
-Ad oggi queste società contano oltre 1000 dipendenti e sono presenti in Austria, Francia, Italia, Regno Unito e Svizzera."
-website: "https://www.arsenalia.group/"
+desc: "Arsenalia è il partner che accompagna le organizzazioni nei loro percorsi di crescita, integrando tecnologie AI-driven, ottimizzando i processi e abilitando nuovi modelli di business per generare valore concreto e duraturo. Con un team di oltre 1000 esperti e partnership consolidate con i principali leader tecnologici, Arsenalia offre consulenza negli ambiti Customer Experience, People, Entreprise e Innovation, per una trasformazione digitale completa e sostenibile."
+website: "https://www.arsenalia.com/"
+careers: "Trovi tutte le informazioni sulla carriera in Arsenalia a questo <a href='https://www.arsenalia.com/en/people/careers'>link</a>. All'interno della pagina troverai lo spazio dedicato alle posizioni aperte e al processo di candidatura nel nostro <a href='https://careers.arsenalia.com/jobs'>portale</a>. Per contatti: <a href='mailto:recruiting.team@arsenalia.com'>recruiting.team@arsenalia.com</a>"
 ---

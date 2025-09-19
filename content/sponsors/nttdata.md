@@ -1,7 +1,9 @@
 ---
-title: "NTT DATA - DevFest Venezia 2024"
+title: "NTT DATA - DevFest Venezia 2025"
 name: "NTT DATA"
 photo: "/images/sponsors/nttdata.jpg"
-desc: "NTT DATA is a $30+ billion trusted global innovator of business and technology services. We serve 75% of the Fortune Global 100 and are committed to helping clients innovate, optimize and transform for long-term success. We invest over $3.6 billion each year in R&D to help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have diverse experts in more than 50 countries and a robust partner ecosystem of established and start-up companies. Our services include business and technology consulting, data and artificial intelligence, industry solutions, as well as the development, implementation and management of applications, infrastructure, and connectivity. We are also one of the leading providers of digital and AI infrastructure in the world. NTT DATA is part of NTT Group and headquartered in Tokyo. Visit us at nttdata.com"
+desc: "NTT DATA è leader globale nei servizi tecnologici e di business, con oltre 30 mld $ di fatturato e il 75% delle Fortune Global 100 tra i clienti. Global Top Employer in più di 50 paesi, offre consulenza, data intelligence, AI, sviluppo e gestione di applicativi, infrastrutture e connettività. Parte di NTT Group, che investe 3,6 mld $ in R&S, è tra i principali fornitori mondiali di infrastrutture digitali e AI. In Italia conta 6000 dipendenti in 12 città."
 website: "https://it.nttdata.com/"
+youtube: "NJzhe0peLGY"
+careers: "È possibile inviare candidatura qui: <a href='https://careers.emeal.nttdata.com/s/offer/a1JKA000000U04A2AS/italia-2025-evento-devfest-ca-foscari-11102025-mestre?language=es'>careers.emeal.nttdata.com</a>"
 ---
