@@ -4,7 +4,6 @@ name: "Alessandro Pezzato"
 photo: "/images/speakers/alessandro_pezzato.webp"
 bio: Coding for passion since I was a child, now working as C++ trainer and developer.
 jobTitle: Freelance C++ developer and trainer
-twitter: "https://twitter.com/elainedbatista"
 linkedin: "https://linkedin.com/in/alessandropezzato"
 website: "https://alepez.dev"
 featured: false
